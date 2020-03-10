@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "980599386239",
+    "firebase_url": "https://pathole-detection.firebaseio.com",
+    "project_id": "pathole-detection",
+    "storage_bucket": "pathole-detection.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980599386239:android:d2f0faebc5a99a546c4f4a",
+        "android_client_info": {
+          "package_name": "com.example.pathole_detection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980599386239-33fqs27pgebutb3i9i0e80073fiun3od.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pathole_detection",
+            "certificate_hash": "12c3a16533c23bb97b2cede84c27aa47d1336a7a"
+          }
+        },
+        {
+          "client_id": "980599386239-4t4g7n36geblcos0jog1ufa5hg44rgrf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCrxBsLzlnyJpBEVuyBqgtQsHwvXVVNLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980599386239-4t4g7n36geblcos0jog1ufa5hg44rgrf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
